@@ -1,3 +1,5 @@
+Hello world! 
+
 # Vite React Boilerplate
 
 ![](/public/vite-react-boilerplate.png)
